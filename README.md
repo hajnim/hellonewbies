@@ -1,4 +1,4 @@
 # hellonewbies
-Place of OWT newbies
+Place of Bláthy newbies
 
-This repository is for OWT students in order to practice the git.
+This repository is for Bláthy students in order to practice the git.
